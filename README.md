@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Assalamualaikum, I'm Pendtium Praz
+# 👋 Assalamualaikum, I'm Galih Praz
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F727&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Islamic+Tech+Solutions+Builder;238%2B+Open+Source+Projects" alt="Typing SVG" />
 
