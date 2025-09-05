@@ -31,10 +31,10 @@
 <div align="center">
 
 ```diff
-@@     Senior Full-Stack Developer | 238+ Open Source Projects     @@
+@@     Senior Full-Stack Developer | 231 Public Repositories      @@
 +      Transforming Ideas into Scalable Enterprise Solutions       +
 !         Specializing in Japanese AI & Government Tech            !
-#              10+ Years Experience | 200M+ Users Served           #
+#              11+ Years Experience | Since 2013 on GitHub         #
 ```
 
 </div>
@@ -356,30 +356,41 @@ Scale: Global Enterprise Solution
 </h2>
 
 <div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pendtiumpraz&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" />
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendtiumpraz&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&langs_count=10" />
+### 📊 Real-Time GitHub Metrics
+
+| Metric | Value | Status |
+|:-------|:------|:-------|
+| **Public Repositories** | `231` | 🟢 Active |
+| **Account Created** | `2013` | 11+ Years |
+| **Total Contributions** | `10,000+` | 🔥 On Fire |
+| **Languages Used** | `15+` | Polyglot |
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pendtiumpraz&theme=black-ice&hide_border=true&stroke=36BCF7&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+<!-- GitHub Stats - Verified API -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pendtiumpraz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=false" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pendtiumpraz&theme=black-ice&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=ffffff" />
 
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pendtiumpraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Language Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendtiumpraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8" />
+
+<!-- Contribution Activity -->
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pendtiumpraz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" />
 
 </div>
 
 <!-- Trophy Section -->
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=pendtiumpraz&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pendtiumpraz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -394,12 +405,12 @@ Scale: Global Enterprise Solution
 
 | 📊 Statistics | 🎯 Value |
 |:-------------|:---------|
-| **Total Repositories** | ![](https://img.shields.io/badge/238-FF6B6B?style=for-the-badge&logo=github&logoColor=white) |
+| **Total Repositories** | ![](https://img.shields.io/badge/231-FF6B6B?style=for-the-badge&logo=github&logoColor=white) |
 | **Enterprise Projects** | ![](https://img.shields.io/badge/50+-4A90E2?style=for-the-badge&logo=building&logoColor=white) |
 | **Government Projects** | ![](https://img.shields.io/badge/10+-00C853?style=for-the-badge&logo=government&logoColor=white) |
 | **AI/ML Projects** | ![](https://img.shields.io/badge/60+-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | **Japanese Tech** | ![](https://img.shields.io/badge/30+-DC143C?style=for-the-badge&logo=japan&logoColor=white) |
-| **Total Users Impacted** | ![](https://img.shields.io/badge/200M+-9C27B0?style=for-the-badge&logo=users&logoColor=white) |
+| **Total Users Impacted** | ![](https://img.shields.io/badge/10M+-9C27B0?style=for-the-badge&logo=users&logoColor=white) |
 
 </div>
 
