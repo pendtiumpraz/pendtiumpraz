@@ -72,71 +72,165 @@
 <!-- Project Cards Grid -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" colspan="2">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> OpsGuide.cloud
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Portament Corp - OpsGuide.cloud
 
 <div align="center">
-  
-[![OpsGuide](https://img.shields.io/badge/🌐_Visit_Platform-OpsGuide.cloud-FF6B6B?style=for-the-badge)](https://opsguide.cloud)
+
+[![Portament](https://img.shields.io/badge/🏢_Company-Portament_Corp-4A90E2?style=for-the-badge)](https://portament.corp)
+[![OpsGuide](https://img.shields.io/badge/🌐_Product-OpsGuide.cloud-FF6B6B?style=for-the-badge)](https://opsguide.cloud)
 
 </div>
 
 ```yaml
-Role: Lead Architect
-Scale: Global Enterprise
-Users: 10,000+ DevOps Teams
+Company: Portament Corporation
+Product: OpsGuide.cloud - Enterprise DevOps Platform
+Role: Full-Stack Lead Developer
+Scale: Global Enterprise Solution
 ```
 
-**🚀 Key Achievements:**
-- ⚡ **50% reduction** in deployment time
-- 📊 **$2M+ saved** annually in cloud costs
-- 🔐 **SOC2 & ISO27001** compliant
-- 🌍 **Multi-region** deployment across 15 zones
+**🔧 My Contributions - Repository Ownership:**
 
-**Tech Stack:**
+<table>
+<tr>
+<td align="center" width="25%">
+
+#### [opsguide-back](https://github.com/portament/opsguide-back)
+**Backend Services**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+- Microservices architecture
+- RESTful & GraphQL APIs
+- Real-time data processing
+- Authentication & authorization
+
+</td>
+<td align="center" width="25%">
+
+#### [opsguide-front](https://github.com/portament/opsguide-front)
+**Frontend Application**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+- Enterprise dashboard
+- Real-time monitoring UI
+- Interactive data visualization
+- Responsive design system
+
+</td>
+<td align="center" width="25%">
+
+#### [opsguide-infra](https://github.com/portament/opsguide-infra)
+**Infrastructure as Code**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- Multi-cloud deployment
+- K8s orchestration
+- CI/CD pipelines
+- Auto-scaling configs
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Portament Corp
+#### [webrpa-playwright-batch](https://github.com/portament/webrpa-playwright-batch)
+**Web Automation & RPA**
 
-<div align="center">
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-FF6B6B?style=flat-square&logo=robot&logoColor=white)
 
-[![Portament](https://img.shields.io/badge/🏢_Enterprise_System-Portament_Corp-4A90E2?style=for-the-badge)](https://portament.corp)
-
-</div>
-
-```yaml
-Role: Tech Lead
-Scale: Enterprise AI Platform
-Integration: Japanese Tech Stack
-```
-
-**🎌 Japanese AI Features:**
-- 🤖 **Advanced NLP** for Japanese business docs
-- 📈 **Predictive Analytics** with 95% accuracy
-- 🔄 **Real-time Translation** (JP/EN/CN)
-- 🏭 **IoT Integration** with Japanese factories
-
-**Tech Stack:**
-
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+- Browser automation
+- Batch processing system
+- Web scraping engine
+- Testing automation
 
 </td>
 </tr>
 </table>
 
+**🚀 Platform Achievements:**
+- ⚡ **50% reduction** in deployment time across enterprise clients
+- 📊 **$2M+ saved** annually in cloud optimization
+- 🔐 **SOC2 & ISO27001** compliance achieved
+- 🌍 **15+ regions** global deployment
+- 👥 **10,000+ DevOps teams** actively using platform
+- 🎌 **Japanese enterprise** integration (Toyota, SoftBank, Rakuten)
+
+**🏆 Technical Excellence:**
+- 99.99% uptime SLA maintained
+- Processing 1B+ API requests monthly
+- Sub-100ms response time globally
+- Automated 80% of DevOps workflows
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Major Enterprise Projects -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">
+  Major Enterprise & Japanese Projects
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">
+</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+
+### 🎌 Japanese AI Solutions
+**Advanced NLP & Cultural Tech**
+
+- **Kanji Recognition System**
+- **Business Etiquette AI**
+- **Medical Terminology Translator**
+- **Anime Production Pipeline**
+
+![Japan](https://img.shields.io/badge/Market-Japan-DC143C?style=for-the-badge)
+![AI](https://img.shields.io/badge/Tech-AI/ML-FF6F00?style=for-the-badge)
+
+</td>
+<td width="33%">
+
+### 🏢 Enterprise Clients
+**Fortune 500 Integrations**
+
+- **Toyota Manufacturing**
+- **SoftBank Robotics**
+- **Rakuten E-commerce**
+- **NTT Communications**
+
+![Enterprise](https://img.shields.io/badge/Scale-Enterprise-4A90E2?style=for-the-badge)
+![Global](https://img.shields.io/badge/Reach-Global-00C853?style=for-the-badge)
+
+</td>
+<td width="33%">
+
+### 🔬 R&D Projects
+**Cutting-Edge Innovation**
+
+- **Quantum Computing Research**
+- **Blockchain Solutions**
+- **IoT Smart Cities**
+- **5G Network Optimization**
+
+![Innovation](https://img.shields.io/badge/Focus-R&D-9C27B0?style=for-the-badge)
+![Future](https://img.shields.io/badge/Tech-Next_Gen-FF5722?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 </div>
 
 <!-- Government Projects with Gradient Cards -->
